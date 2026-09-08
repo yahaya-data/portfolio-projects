@@ -1,0 +1,501 @@
+Household_ID,Phase,Community,Household_Size,Water_Source,Water_Access_Mins,Diarrhea_Cases_Under5,Handwashing_Facility,Sanitation_Type,Water_Safety_Flag,Fetch_Time_Target_Flag,Diarrhea_Prevalence_Flag
+HH-1001,Baseline,Village A,6,Unimproved Well,45,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1001,Endline,Village A,6,Piped Tap,10,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1002,Baseline,Village C,5,Surface Water,30,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1002,Endline,Village C,5,Public Tap,13,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1003,Baseline,Village C,7,Unimproved Well,31,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1003,Endline,Village C,7,Piped Tap,8,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1004,Baseline,Village B,5,Borehole,75,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1004,Endline,Village B,5,Piped Tap,10,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1005,Baseline,Village A,4,Surface Water,66,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1005,Endline,Village A,4,Borehole,13,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1006,Baseline,Village A,5,Unimproved Well,88,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1006,Endline,Village A,5,Piped Tap,10,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1007,Baseline,Village A,8,Borehole,39,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1007,Endline,Village A,8,Piped Tap,18,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1008,Baseline,Village C,6,Borehole,53,2,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1008,Endline,Village C,6,Public Tap,16,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1009,Baseline,Village B,5,Borehole,57,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1009,Endline,Village B,5,Public Tap,16,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1010,Baseline,Village C,3,Surface Water,51,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1010,Endline,Village C,3,Public Tap,16,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1011,Baseline,Village A,6,Surface Water,60,2,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1011,Endline,Village A,6,Public Tap,13,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1012,Baseline,Village C,8,Unimproved Well,53,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1012,Endline,Village C,8,Piped Tap,19,1,Soap & Water,Ventilated Improved Pit,Improved,>15 Mins,1
+HH-1013,Baseline,Village C,4,Borehole,62,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1013,Endline,Village C,4,Public Tap,8,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1014,Baseline,Village A,5,Borehole,81,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1014,Endline,Village A,5,Piped Tap,12,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1015,Baseline,Village A,7,Unimproved Well,51,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1015,Endline,Village A,7,Borehole,13,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1016,Baseline,Village A,6,Unimproved Well,79,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1016,Endline,Village A,6,Public Tap,8,0,Water Only,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1017,Baseline,Village A,6,Unimproved Well,57,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1017,Endline,Village A,6,Piped Tap,9,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1018,Baseline,Village B,6,Borehole,34,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1018,Endline,Village B,6,Piped Tap,18,1,Soap & Water,Pit Latrine,Improved,>15 Mins,1
+HH-1019,Baseline,Village B,5,Borehole,29,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1019,Endline,Village B,5,Piped Tap,12,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1020,Baseline,Village A,4,Unimproved Well,62,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1020,Endline,Village A,4,Piped Tap,16,0,Soap & Water,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1021,Baseline,Village B,7,Surface Water,37,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1021,Endline,Village B,7,Piped Tap,14,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1022,Baseline,Village A,7,Unimproved Well,55,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1022,Endline,Village A,7,Public Tap,18,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1023,Baseline,Village A,7,Borehole,71,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1023,Endline,Village A,7,Public Tap,10,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1024,Baseline,Village A,8,Borehole,76,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1024,Endline,Village A,8,Piped Tap,16,0,Soap & Water,Open Defecation,Improved,>15 Mins,0
+HH-1025,Baseline,Village B,5,Borehole,80,1,Water Only,Open Defecation,Improved,>15 Mins,1
+HH-1025,Endline,Village B,5,Piped Tap,11,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1026,Baseline,Village C,5,Unimproved Well,39,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1026,Endline,Village C,5,Piped Tap,7,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1027,Baseline,Village A,6,Unimproved Well,53,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1027,Endline,Village A,6,Borehole,11,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1028,Baseline,Village B,6,Unimproved Well,32,3,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1028,Endline,Village B,6,Piped Tap,16,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1029,Baseline,Village B,6,Unimproved Well,29,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1029,Endline,Village B,6,Public Tap,18,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1030,Baseline,Village A,6,Borehole,53,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1030,Endline,Village A,6,Borehole,12,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1031,Baseline,Village B,7,Borehole,71,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1031,Endline,Village B,7,Public Tap,14,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1032,Baseline,Village A,5,Borehole,69,0,No Facility,Open Defecation,Improved,>15 Mins,0
+HH-1032,Endline,Village A,5,Borehole,10,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1033,Baseline,Village A,5,Borehole,26,1,Water Only,Open Defecation,Improved,>15 Mins,1
+HH-1033,Endline,Village A,5,Piped Tap,19,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1034,Baseline,Village C,3,Surface Water,51,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1034,Endline,Village C,3,Borehole,14,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1035,Baseline,Village C,5,Surface Water,60,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1035,Endline,Village C,5,Piped Tap,13,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1036,Baseline,Village C,3,Borehole,60,0,Water Only,Open Defecation,Improved,>15 Mins,0
+HH-1036,Endline,Village C,3,Piped Tap,17,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1037,Baseline,Village A,5,Borehole,50,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1037,Endline,Village A,5,Public Tap,10,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1038,Baseline,Village A,5,Unimproved Well,67,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1038,Endline,Village A,5,Borehole,16,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1039,Baseline,Village B,4,Unimproved Well,51,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1039,Endline,Village B,4,Borehole,13,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1040,Baseline,Village B,5,Unimproved Well,44,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1040,Endline,Village B,5,Piped Tap,17,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1041,Baseline,Village A,3,Borehole,35,0,No Facility,Open Defecation,Improved,>15 Mins,0
+HH-1041,Endline,Village A,3,Piped Tap,8,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1042,Baseline,Village B,3,Surface Water,62,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1042,Endline,Village B,3,Borehole,12,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1043,Baseline,Village A,7,Unimproved Well,30,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1043,Endline,Village A,7,Piped Tap,15,1,No Facility,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1044,Baseline,Village C,5,Surface Water,47,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1044,Endline,Village C,5,Public Tap,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1045,Baseline,Village A,4,Surface Water,71,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1045,Endline,Village A,4,Borehole,6,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1046,Baseline,Village B,5,Unimproved Well,70,1,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1046,Endline,Village B,5,Public Tap,14,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1047,Baseline,Village A,6,Unimproved Well,36,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1047,Endline,Village A,6,Piped Tap,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1048,Baseline,Village B,4,Surface Water,37,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1048,Endline,Village B,4,Public Tap,13,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1049,Baseline,Village B,6,Surface Water,86,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1049,Endline,Village B,6,Piped Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1050,Baseline,Village A,3,Surface Water,84,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1050,Endline,Village A,3,Borehole,8,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1051,Baseline,Village C,3,Surface Water,67,0,Water Only,Pit Latrine,Unimproved,>15 Mins,0
+HH-1051,Endline,Village C,3,Public Tap,6,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1052,Baseline,Village C,5,Borehole,29,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1052,Endline,Village C,5,Borehole,5,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1053,Baseline,Village C,5,Surface Water,61,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1053,Endline,Village C,5,Piped Tap,15,0,No Facility,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1054,Baseline,Village C,6,Surface Water,55,2,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1054,Endline,Village C,6,Borehole,11,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1055,Baseline,Village B,6,Borehole,33,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1055,Endline,Village B,6,Public Tap,10,0,No Facility,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1056,Baseline,Village C,8,Unimproved Well,75,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1056,Endline,Village C,8,Piped Tap,19,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1057,Baseline,Village A,5,Unimproved Well,53,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1057,Endline,Village A,5,Piped Tap,19,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1058,Baseline,Village A,5,Unimproved Well,64,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1058,Endline,Village A,5,Public Tap,6,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1059,Baseline,Village A,6,Surface Water,65,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1059,Endline,Village A,6,Public Tap,12,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1060,Baseline,Village A,4,Surface Water,35,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1060,Endline,Village A,4,Borehole,15,0,No Facility,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1061,Baseline,Village A,5,Surface Water,47,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1061,Endline,Village A,5,Piped Tap,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1062,Baseline,Village A,3,Unimproved Well,25,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1062,Endline,Village A,3,Piped Tap,12,0,No Facility,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1063,Baseline,Village C,3,Unimproved Well,70,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1063,Endline,Village C,3,Public Tap,19,1,Soap & Water,Pit Latrine,Improved,>15 Mins,1
+HH-1064,Baseline,Village A,8,Unimproved Well,45,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1064,Endline,Village A,8,Piped Tap,11,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1065,Baseline,Village A,7,Unimproved Well,60,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1065,Endline,Village A,7,Public Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1066,Baseline,Village B,6,Surface Water,78,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1066,Endline,Village B,6,Borehole,14,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1067,Baseline,Village A,5,Unimproved Well,81,0,Water Only,Pit Latrine,Unimproved,>15 Mins,0
+HH-1067,Endline,Village A,5,Borehole,14,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1068,Baseline,Village C,4,Unimproved Well,25,0,Water Only,Pit Latrine,Unimproved,>15 Mins,0
+HH-1068,Endline,Village C,4,Borehole,16,0,Soap & Water,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1069,Baseline,Village A,4,Borehole,87,0,No Facility,Open Defecation,Improved,>15 Mins,0
+HH-1069,Endline,Village A,4,Public Tap,12,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1070,Baseline,Village C,4,Unimproved Well,78,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1070,Endline,Village C,4,Piped Tap,18,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1071,Baseline,Village C,5,Surface Water,79,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1071,Endline,Village C,5,Public Tap,13,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1072,Baseline,Village A,6,Surface Water,64,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1072,Endline,Village A,6,Public Tap,9,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1073,Baseline,Village A,6,Unimproved Well,39,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1073,Endline,Village A,6,Borehole,14,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1074,Baseline,Village C,4,Surface Water,45,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1074,Endline,Village C,4,Piped Tap,9,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1075,Baseline,Village C,8,Borehole,71,0,No Facility,Open Defecation,Improved,>15 Mins,0
+HH-1075,Endline,Village C,8,Public Tap,6,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1076,Baseline,Village C,6,Borehole,77,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1076,Endline,Village C,6,Piped Tap,9,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1077,Baseline,Village C,5,Unimproved Well,33,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1077,Endline,Village C,5,Public Tap,7,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1078,Baseline,Village A,6,Borehole,76,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1078,Endline,Village A,6,Borehole,11,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1079,Baseline,Village A,5,Unimproved Well,81,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1079,Endline,Village A,5,Public Tap,14,0,No Facility,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1080,Baseline,Village A,4,Unimproved Well,50,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1080,Endline,Village A,4,Piped Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1081,Baseline,Village C,5,Unimproved Well,65,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1081,Endline,Village C,5,Borehole,12,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1082,Baseline,Village B,6,Borehole,59,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1082,Endline,Village B,6,Public Tap,5,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1083,Baseline,Village A,3,Unimproved Well,87,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1083,Endline,Village A,3,Piped Tap,7,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1084,Baseline,Village A,4,Unimproved Well,49,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1084,Endline,Village A,4,Piped Tap,7,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1085,Baseline,Village A,3,Surface Water,62,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1085,Endline,Village A,3,Piped Tap,13,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1086,Baseline,Village A,3,Unimproved Well,26,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1086,Endline,Village A,3,Piped Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1087,Baseline,Village C,7,Unimproved Well,31,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1087,Endline,Village C,7,Borehole,16,1,Soap & Water,Pit Latrine,Improved,>15 Mins,1
+HH-1088,Baseline,Village B,6,Unimproved Well,58,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1088,Endline,Village B,6,Public Tap,13,0,No Facility,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1089,Baseline,Village C,5,Unimproved Well,41,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1089,Endline,Village C,5,Borehole,17,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1090,Baseline,Village B,3,Unimproved Well,67,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1090,Endline,Village B,3,Piped Tap,13,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1091,Baseline,Village A,5,Unimproved Well,83,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1091,Endline,Village A,5,Piped Tap,5,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1092,Baseline,Village C,5,Surface Water,75,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1092,Endline,Village C,5,Public Tap,6,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1093,Baseline,Village C,4,Unimproved Well,78,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1093,Endline,Village C,4,Piped Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1094,Baseline,Village B,5,Unimproved Well,48,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1094,Endline,Village B,5,Public Tap,8,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1095,Baseline,Village C,5,Borehole,49,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1095,Endline,Village C,5,Borehole,19,0,Soap & Water,Open Defecation,Improved,>15 Mins,0
+HH-1096,Baseline,Village B,6,Unimproved Well,76,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1096,Endline,Village B,6,Public Tap,14,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1097,Baseline,Village B,6,Surface Water,57,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1097,Endline,Village B,6,Public Tap,13,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1098,Baseline,Village B,3,Unimproved Well,73,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1098,Endline,Village B,3,Piped Tap,11,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1099,Baseline,Village A,5,Unimproved Well,53,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1099,Endline,Village A,5,Piped Tap,10,0,No Facility,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1100,Baseline,Village A,6,Unimproved Well,87,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1100,Endline,Village A,6,Piped Tap,11,0,No Facility,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1101,Baseline,Village A,5,Unimproved Well,46,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1101,Endline,Village A,5,Public Tap,5,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1102,Baseline,Village B,7,Unimproved Well,50,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1102,Endline,Village B,7,Piped Tap,5,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1103,Baseline,Village A,6,Unimproved Well,52,2,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1103,Endline,Village A,6,Piped Tap,12,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1104,Baseline,Village B,4,Unimproved Well,73,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1104,Endline,Village B,4,Public Tap,17,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1105,Baseline,Village C,3,Unimproved Well,73,1,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1105,Endline,Village C,3,Piped Tap,17,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1106,Baseline,Village A,6,Unimproved Well,44,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1106,Endline,Village A,6,Piped Tap,6,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1107,Baseline,Village B,3,Unimproved Well,87,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1107,Endline,Village B,3,Piped Tap,16,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1108,Baseline,Village C,5,Unimproved Well,85,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1108,Endline,Village C,5,Borehole,14,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1109,Baseline,Village A,8,Surface Water,73,0,Water Only,Pit Latrine,Unimproved,>15 Mins,0
+HH-1109,Endline,Village A,8,Public Tap,15,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1110,Baseline,Village A,5,Surface Water,25,2,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1110,Endline,Village A,5,Public Tap,13,1,No Facility,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1111,Baseline,Village A,5,Unimproved Well,37,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1111,Endline,Village A,5,Piped Tap,11,1,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),1
+HH-1112,Baseline,Village A,6,Surface Water,75,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1112,Endline,Village A,6,Borehole,10,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1113,Baseline,Village C,5,Surface Water,80,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1113,Endline,Village C,5,Public Tap,5,0,No Facility,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1114,Baseline,Village C,5,Unimproved Well,86,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1114,Endline,Village C,5,Piped Tap,5,1,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),1
+HH-1115,Baseline,Village B,8,Borehole,56,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1115,Endline,Village B,8,Borehole,6,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1116,Baseline,Village C,5,Borehole,54,1,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1116,Endline,Village C,5,Piped Tap,10,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1117,Baseline,Village C,8,Unimproved Well,53,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1117,Endline,Village C,8,Public Tap,18,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1118,Baseline,Village A,8,Unimproved Well,73,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1118,Endline,Village A,8,Public Tap,10,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1119,Baseline,Village C,4,Borehole,69,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1119,Endline,Village C,4,Piped Tap,6,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1120,Baseline,Village B,3,Surface Water,54,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1120,Endline,Village B,3,Borehole,5,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1121,Baseline,Village C,4,Unimproved Well,40,2,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1121,Endline,Village C,4,Public Tap,14,2,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1122,Baseline,Village C,3,Unimproved Well,64,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1122,Endline,Village C,3,Public Tap,9,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1123,Baseline,Village A,3,Unimproved Well,43,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1123,Endline,Village A,3,Piped Tap,9,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1124,Baseline,Village A,6,Unimproved Well,42,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1124,Endline,Village A,6,Piped Tap,6,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1125,Baseline,Village A,3,Surface Water,25,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1125,Endline,Village A,3,Piped Tap,10,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1126,Baseline,Village B,5,Unimproved Well,71,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1126,Endline,Village B,5,Public Tap,13,0,No Facility,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1127,Baseline,Village C,7,Unimproved Well,62,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1127,Endline,Village C,7,Piped Tap,6,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1128,Baseline,Village C,3,Surface Water,75,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1128,Endline,Village C,3,Public Tap,14,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1129,Baseline,Village A,7,Unimproved Well,87,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1129,Endline,Village A,7,Public Tap,6,1,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1130,Baseline,Village B,4,Unimproved Well,28,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1130,Endline,Village B,4,Piped Tap,7,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1131,Baseline,Village B,4,Surface Water,25,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1131,Endline,Village B,4,Public Tap,17,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1132,Baseline,Village A,6,Borehole,32,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1132,Endline,Village A,6,Piped Tap,11,1,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),1
+HH-1133,Baseline,Village A,6,Surface Water,53,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1133,Endline,Village A,6,Borehole,10,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1134,Baseline,Village A,7,Surface Water,79,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1134,Endline,Village A,7,Public Tap,16,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1135,Baseline,Village C,6,Unimproved Well,27,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1135,Endline,Village C,6,Piped Tap,12,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1136,Baseline,Village A,7,Unimproved Well,56,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1136,Endline,Village A,7,Piped Tap,19,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1137,Baseline,Village B,4,Surface Water,34,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1137,Endline,Village B,4,Public Tap,12,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1138,Baseline,Village C,4,Unimproved Well,58,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1138,Endline,Village C,4,Public Tap,10,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1139,Baseline,Village A,6,Unimproved Well,79,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1139,Endline,Village A,6,Public Tap,16,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1140,Baseline,Village C,7,Unimproved Well,56,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1140,Endline,Village C,7,Public Tap,15,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1141,Baseline,Village C,8,Unimproved Well,74,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1141,Endline,Village C,8,Piped Tap,14,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1142,Baseline,Village A,5,Unimproved Well,31,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1142,Endline,Village A,5,Piped Tap,7,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1143,Baseline,Village B,5,Unimproved Well,32,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1143,Endline,Village B,5,Piped Tap,7,0,No Facility,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1144,Baseline,Village A,6,Unimproved Well,89,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1144,Endline,Village A,6,Public Tap,19,0,Soap & Water,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1145,Baseline,Village A,5,Unimproved Well,81,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1145,Endline,Village A,5,Borehole,5,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1146,Baseline,Village A,8,Borehole,83,0,Water Only,Open Defecation,Improved,>15 Mins,0
+HH-1146,Endline,Village A,8,Public Tap,11,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1147,Baseline,Village B,7,Surface Water,78,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1147,Endline,Village B,7,Piped Tap,9,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1148,Baseline,Village B,5,Surface Water,75,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1148,Endline,Village B,5,Public Tap,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1149,Baseline,Village A,6,Surface Water,32,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1149,Endline,Village A,6,Borehole,14,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1150,Baseline,Village A,6,Unimproved Well,58,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1150,Endline,Village A,6,Public Tap,19,0,Soap & Water,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1151,Baseline,Village C,4,Unimproved Well,59,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1151,Endline,Village C,4,Borehole,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1152,Baseline,Village A,8,Surface Water,56,3,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1152,Endline,Village A,8,Piped Tap,18,1,Water Only,Ventilated Improved Pit,Improved,>15 Mins,1
+HH-1153,Baseline,Village A,5,Surface Water,70,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1153,Endline,Village A,5,Piped Tap,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1154,Baseline,Village B,7,Surface Water,40,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1154,Endline,Village B,7,Borehole,10,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1155,Baseline,Village C,5,Unimproved Well,61,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1155,Endline,Village C,5,Public Tap,19,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1156,Baseline,Village A,7,Unimproved Well,78,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1156,Endline,Village A,7,Piped Tap,12,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1157,Baseline,Village B,5,Unimproved Well,38,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1157,Endline,Village B,5,Public Tap,12,0,No Facility,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1158,Baseline,Village C,3,Unimproved Well,79,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1158,Endline,Village C,3,Borehole,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1159,Baseline,Village A,8,Surface Water,72,3,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1159,Endline,Village A,8,Public Tap,19,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1160,Baseline,Village C,3,Surface Water,31,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1160,Endline,Village C,3,Public Tap,10,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1161,Baseline,Village A,5,Unimproved Well,31,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1161,Endline,Village A,5,Piped Tap,8,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1162,Baseline,Village B,8,Borehole,57,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1162,Endline,Village B,8,Public Tap,16,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1163,Baseline,Village B,8,Surface Water,47,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1163,Endline,Village B,8,Public Tap,18,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1164,Baseline,Village B,5,Unimproved Well,43,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1164,Endline,Village B,5,Borehole,15,1,Water Only,Open Defecation,Improved,<=15 Mins (Target),1
+HH-1165,Baseline,Village A,6,Unimproved Well,43,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1165,Endline,Village A,6,Borehole,17,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1166,Baseline,Village C,5,Unimproved Well,60,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1166,Endline,Village C,5,Borehole,13,0,Water Only,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1167,Baseline,Village A,4,Unimproved Well,53,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1167,Endline,Village A,4,Piped Tap,12,0,Water Only,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1168,Baseline,Village A,5,Unimproved Well,84,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1168,Endline,Village A,5,Public Tap,14,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1169,Baseline,Village A,6,Unimproved Well,26,2,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1169,Endline,Village A,6,Public Tap,16,0,Water Only,Open Defecation,Improved,>15 Mins,0
+HH-1170,Baseline,Village B,6,Unimproved Well,25,3,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1170,Endline,Village B,6,Public Tap,14,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1171,Baseline,Village B,6,Unimproved Well,71,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1171,Endline,Village B,6,Public Tap,5,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1172,Baseline,Village A,6,Borehole,44,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1172,Endline,Village A,6,Borehole,19,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1173,Baseline,Village B,3,Unimproved Well,35,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1173,Endline,Village B,3,Public Tap,6,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1174,Baseline,Village A,5,Surface Water,26,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1174,Endline,Village A,5,Public Tap,13,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1175,Baseline,Village B,3,Unimproved Well,36,0,Water Only,Pit Latrine,Unimproved,>15 Mins,0
+HH-1175,Endline,Village B,3,Piped Tap,12,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1176,Baseline,Village A,5,Borehole,44,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1176,Endline,Village A,5,Piped Tap,18,0,Soap & Water,Open Defecation,Improved,>15 Mins,0
+HH-1177,Baseline,Village B,5,Unimproved Well,29,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1177,Endline,Village B,5,Public Tap,7,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1178,Baseline,Village A,7,Unimproved Well,61,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1178,Endline,Village A,7,Public Tap,12,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1179,Baseline,Village C,5,Borehole,62,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1179,Endline,Village C,5,Piped Tap,16,0,Soap & Water,Open Defecation,Improved,>15 Mins,0
+HH-1180,Baseline,Village A,4,Borehole,33,0,No Facility,Open Defecation,Improved,>15 Mins,0
+HH-1180,Endline,Village A,4,Piped Tap,5,0,Water Only,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1181,Baseline,Village A,4,Borehole,77,0,No Facility,Open Defecation,Improved,>15 Mins,0
+HH-1181,Endline,Village A,4,Public Tap,14,0,No Facility,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1182,Baseline,Village A,6,Unimproved Well,68,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1182,Endline,Village A,6,Piped Tap,8,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1183,Baseline,Village C,6,Unimproved Well,48,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1183,Endline,Village C,6,Piped Tap,7,0,No Facility,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1184,Baseline,Village C,4,Surface Water,54,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1184,Endline,Village C,4,Piped Tap,10,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1185,Baseline,Village A,3,Borehole,83,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1185,Endline,Village A,3,Piped Tap,11,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1186,Baseline,Village B,6,Surface Water,38,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1186,Endline,Village B,6,Piped Tap,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1187,Baseline,Village C,3,Surface Water,33,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1187,Endline,Village C,3,Piped Tap,11,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1188,Baseline,Village B,7,Unimproved Well,64,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1188,Endline,Village B,7,Public Tap,13,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1189,Baseline,Village B,6,Surface Water,49,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1189,Endline,Village B,6,Borehole,15,1,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1190,Baseline,Village A,3,Unimproved Well,46,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1190,Endline,Village A,3,Public Tap,6,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1191,Baseline,Village A,3,Unimproved Well,28,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1191,Endline,Village A,3,Public Tap,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1192,Baseline,Village C,8,Unimproved Well,50,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1192,Endline,Village C,8,Piped Tap,7,2,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1193,Baseline,Village C,5,Surface Water,82,2,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1193,Endline,Village C,5,Piped Tap,9,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1194,Baseline,Village B,5,Unimproved Well,53,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1194,Endline,Village B,5,Public Tap,7,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1195,Baseline,Village A,7,Unimproved Well,61,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1195,Endline,Village A,7,Piped Tap,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1196,Baseline,Village A,8,Surface Water,42,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1196,Endline,Village A,8,Public Tap,12,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1197,Baseline,Village C,8,Unimproved Well,66,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1197,Endline,Village C,8,Public Tap,16,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1198,Baseline,Village C,6,Surface Water,65,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1198,Endline,Village C,6,Public Tap,14,1,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),1
+HH-1199,Baseline,Village C,5,Unimproved Well,62,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1199,Endline,Village C,5,Piped Tap,12,0,No Facility,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1200,Baseline,Village C,3,Unimproved Well,58,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1200,Endline,Village C,3,Piped Tap,12,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1201,Baseline,Village B,6,Surface Water,41,0,Water Only,Pit Latrine,Unimproved,>15 Mins,0
+HH-1201,Endline,Village B,6,Public Tap,16,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1202,Baseline,Village A,5,Unimproved Well,61,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1202,Endline,Village A,5,Piped Tap,16,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1203,Baseline,Village A,5,Unimproved Well,49,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1203,Endline,Village A,5,Public Tap,13,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1204,Baseline,Village C,8,Unimproved Well,51,1,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1204,Endline,Village C,8,Public Tap,8,1,No Facility,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1205,Baseline,Village B,4,Unimproved Well,81,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1205,Endline,Village B,4,Borehole,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1206,Baseline,Village A,5,Borehole,55,0,No Facility,Pit Latrine,Improved,>15 Mins,0
+HH-1206,Endline,Village A,5,Piped Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1207,Baseline,Village A,3,Unimproved Well,30,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1207,Endline,Village A,3,Borehole,12,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1208,Baseline,Village B,5,Borehole,64,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1208,Endline,Village B,5,Public Tap,11,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1209,Baseline,Village A,3,Unimproved Well,36,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1209,Endline,Village A,3,Piped Tap,13,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1210,Baseline,Village A,4,Surface Water,77,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1210,Endline,Village A,4,Piped Tap,19,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1211,Baseline,Village B,4,Surface Water,34,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1211,Endline,Village B,4,Public Tap,19,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1212,Baseline,Village B,6,Surface Water,69,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1212,Endline,Village B,6,Piped Tap,18,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1213,Baseline,Village B,6,Unimproved Well,41,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1213,Endline,Village B,6,Piped Tap,12,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1214,Baseline,Village A,5,Unimproved Well,50,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1214,Endline,Village A,5,Piped Tap,6,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1215,Baseline,Village C,8,Unimproved Well,86,3,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1215,Endline,Village C,8,Borehole,14,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1216,Baseline,Village A,5,Borehole,70,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1216,Endline,Village A,5,Public Tap,16,0,Soap & Water,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1217,Baseline,Village A,4,Borehole,88,1,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1217,Endline,Village A,4,Public Tap,8,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1218,Baseline,Village C,7,Borehole,26,1,Water Only,Pit Latrine,Improved,>15 Mins,1
+HH-1218,Endline,Village C,7,Piped Tap,10,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1219,Baseline,Village B,4,Unimproved Well,78,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1219,Endline,Village B,4,Piped Tap,16,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1220,Baseline,Village C,8,Surface Water,89,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1220,Endline,Village C,8,Public Tap,6,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1221,Baseline,Village B,3,Borehole,75,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1221,Endline,Village B,3,Public Tap,11,0,Soap & Water,Open Defecation,Improved,<=15 Mins (Target),0
+HH-1222,Baseline,Village B,8,Unimproved Well,77,3,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1222,Endline,Village B,8,Piped Tap,7,1,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),1
+HH-1223,Baseline,Village A,3,Unimproved Well,60,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1223,Endline,Village A,3,Public Tap,17,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1224,Baseline,Village A,7,Surface Water,50,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1224,Endline,Village A,7,Borehole,7,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1225,Baseline,Village A,5,Surface Water,53,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1225,Endline,Village A,5,Public Tap,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1226,Baseline,Village A,8,Borehole,45,3,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1226,Endline,Village A,8,Public Tap,6,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1227,Baseline,Village C,3,Unimproved Well,35,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1227,Endline,Village C,3,Borehole,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1228,Baseline,Village A,5,Surface Water,64,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1228,Endline,Village A,5,Piped Tap,12,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1229,Baseline,Village C,8,Unimproved Well,35,2,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1229,Endline,Village C,8,Public Tap,10,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1230,Baseline,Village B,5,Unimproved Well,60,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1230,Endline,Village B,5,Borehole,5,0,Water Only,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1231,Baseline,Village C,6,Unimproved Well,83,0,Water Only,Open Defecation,Unimproved,>15 Mins,0
+HH-1231,Endline,Village C,6,Piped Tap,16,1,Soap & Water,Open Defecation,Improved,>15 Mins,1
+HH-1232,Baseline,Village B,6,Borehole,63,2,No Facility,Open Defecation,Improved,>15 Mins,1
+HH-1232,Endline,Village B,6,Public Tap,5,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1233,Baseline,Village B,5,Surface Water,78,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1233,Endline,Village B,5,Public Tap,11,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1234,Baseline,Village B,6,Surface Water,79,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1234,Endline,Village B,6,Public Tap,12,1,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),1
+HH-1235,Baseline,Village A,5,Unimproved Well,48,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1235,Endline,Village A,5,Public Tap,9,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1236,Baseline,Village C,8,Borehole,46,3,Water Only,Open Defecation,Improved,>15 Mins,1
+HH-1236,Endline,Village C,8,Borehole,16,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1237,Baseline,Village A,3,Unimproved Well,80,1,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1237,Endline,Village A,3,Public Tap,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1238,Baseline,Village A,4,Borehole,57,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1238,Endline,Village A,4,Piped Tap,9,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1239,Baseline,Village B,8,Unimproved Well,60,2,Water Only,Pit Latrine,Unimproved,>15 Mins,1
+HH-1239,Endline,Village B,8,Borehole,8,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1240,Baseline,Village A,7,Unimproved Well,44,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1240,Endline,Village A,7,Piped Tap,18,0,Soap & Water,Open Defecation,Improved,>15 Mins,0
+HH-1241,Baseline,Village C,5,Unimproved Well,86,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1241,Endline,Village C,5,Piped Tap,10,0,Water Only,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1242,Baseline,Village C,6,Unimproved Well,50,1,Water Only,Open Defecation,Unimproved,>15 Mins,1
+HH-1242,Endline,Village C,6,Public Tap,18,0,Soap & Water,Pit Latrine,Improved,>15 Mins,0
+HH-1243,Baseline,Village C,4,Surface Water,64,1,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1243,Endline,Village C,4,Public Tap,10,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1244,Baseline,Village A,4,Surface Water,41,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1244,Endline,Village A,4,Public Tap,7,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1245,Baseline,Village A,5,Unimproved Well,25,0,No Facility,Pit Latrine,Unimproved,>15 Mins,0
+HH-1245,Endline,Village A,5,Borehole,13,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
+HH-1246,Baseline,Village C,5,Borehole,85,2,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1246,Endline,Village C,5,Public Tap,16,0,Water Only,Pit Latrine,Improved,>15 Mins,0
+HH-1247,Baseline,Village B,5,Unimproved Well,67,1,No Facility,Pit Latrine,Unimproved,>15 Mins,1
+HH-1247,Endline,Village B,5,Public Tap,15,0,Soap & Water,Pit Latrine,Improved,<=15 Mins (Target),0
+HH-1248,Baseline,Village C,3,Surface Water,66,0,No Facility,Open Defecation,Unimproved,>15 Mins,0
+HH-1248,Endline,Village C,3,Piped Tap,18,0,Water Only,Ventilated Improved Pit,Improved,>15 Mins,0
+HH-1249,Baseline,Village C,8,Borehole,49,1,No Facility,Pit Latrine,Improved,>15 Mins,1
+HH-1249,Endline,Village C,8,Borehole,11,1,Water Only,Open Defecation,Improved,<=15 Mins (Target),1
+HH-1250,Baseline,Village C,8,Surface Water,63,2,No Facility,Open Defecation,Unimproved,>15 Mins,1
+HH-1250,Endline,Village C,8,Borehole,5,0,Soap & Water,Ventilated Improved Pit,Improved,<=15 Mins (Target),0
