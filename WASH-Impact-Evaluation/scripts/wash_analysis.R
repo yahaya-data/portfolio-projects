@@ -249,4 +249,18 @@ ggsave("outputs/chart_community_bar_comparison.png", plot = p3_1, width = 7.5, h
 
 message("All portfolio charts successfully rendered and saved to outputs/!")
 
+# ==============================================================================
+# How to Reproduce
+# To run the analysis script and regenerate all standardized 300 DPI graphics locally:
+# ==============================================================================
+#Clone the repository:
+#Bash
+git clone https://github.com/your-username/WASH-Impact-Evaluation-Portfolio.git
+cd WASH-Impact-Evaluation-Portfolio
+
+#Open RStudio or R Terminal and install dependencies:
+install.packages(c("tidyverse", "patchwork", "scales"))
+
+#Execute the main analysis script
+source("scripts/wash_analysis.R")
 ```
